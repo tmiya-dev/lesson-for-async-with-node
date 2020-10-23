@@ -1,0 +1,26 @@
+{
+  "name": "lesson-for-async-with-node",
+  "version": "1.0.0",
+  "description": "a lesson for async with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmiya-dev/lesson-for-async-with-node.git"
+  },
+  "keywords": [
+    "async",
+    "node.js"
+  ],
+  "author": "Takeshi Miyakawa <tmiya@tmiya.dev>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/tmiya-dev/lesson-for-async-with-node/issues"
+  },
+  "homepage": "https://github.com/tmiya-dev/lesson-for-async-with-node#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
